@@ -8,4 +8,4 @@ print(len(python))
 print(python.replace("Python", "Java"))
 
 index = python.index("n") # 몇번째에 위치에 있는지
-print(index)
+print(index) # git에 들어가는지 확인
