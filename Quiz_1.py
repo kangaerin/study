@@ -20,3 +20,5 @@ print(url_2)
 url_3 = url_2[:3] + str(len(url_2)) + str(url_2.count("e")) + "!"
 print(url_3)
 print("{0}의 비밀번호는 {1}입니다.".format(url, url_3))
+
+## 인강 ~ 1:22:29
